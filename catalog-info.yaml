@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-angular-scaffoling-two
+  description: Backstage Angular scaffolding Two
+  tags:
+    - angular
+    - typescript
+  annotations:
+    backstage.io/techdocs-ref: https://github.com/matteobarone/backstage-angular-scaffold-two/tree/master
+spec:
+  type: website
+  lifecycle: experimental
+  owner: team-a
+  system: artist-engagement-portal
