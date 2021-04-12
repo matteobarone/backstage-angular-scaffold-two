@@ -1,6 +1,6 @@
 site_name: backstage-angular-scaffoling-two
+
 site_description: Backstage Angular scaffolding Two
-nav:
-  - Home: README.md
+
 plugins:
   - techdocs-core
